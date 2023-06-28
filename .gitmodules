@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "predictmeans"]
 	path = predictmeans
 	url = https://github.com/cran/predictmeans
-	shallow = true
-	registered = true
