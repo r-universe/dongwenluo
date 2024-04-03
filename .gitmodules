@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "predictmeans"]
 	path = predictmeans
-	url = https://github.com/cran/predictmeans
+	url = https://github.com/dongwenluo/predictmeans
